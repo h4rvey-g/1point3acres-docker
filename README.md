@@ -1,8 +1,6 @@
 # 1point3acres-docker
 # 介绍
 这是对[harryhare/1point3acres](https://github.com/harryhare/1point3acres)的docker实现，用于一亩三分地的每日签到和答题。
-
----
 # 使用方法
 ## 1. Clone本项目
 ```
